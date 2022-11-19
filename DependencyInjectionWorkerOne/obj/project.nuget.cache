@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdhYtRcXx4dtrMKrsKZfWQgH25caOhxXSGmqZleUM7iGvgD19RG5A5cwdyd7nsZmya2wOaqcP+9zrS0+9u7MhQ==",
+  "dgSpecHash": "8MqBOpoyrLnEMhmt9oqx6cHfpusG50NWywC0oVjNZ2seqKt9TQ+dUkeL45oUCqPYFIeCLnGnY44V4GfnpkECfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\dev\\study\\csharp\\DependencyInjectionWorker\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\dev\\study\\csharp\\TOPIC_DependencyInjection\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorker_0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

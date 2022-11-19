@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\dev\\study\\csharp\\DependencyInjectionWorker\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj": {}
+    "C:\\Users\\Usuario\\dev\\study\\csharp\\TOPIC_DependencyInjection\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\dev\\study\\csharp\\DependencyInjectionWorker\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj": {
+    "C:\\Users\\Usuario\\dev\\study\\csharp\\TOPIC_DependencyInjection\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\dev\\study\\csharp\\DependencyInjectionWorker\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\dev\\study\\csharp\\TOPIC_DependencyInjection\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj",
         "projectName": "DependencyInjectionWorkerOne",
-        "projectPath": "C:\\Users\\Usuario\\dev\\study\\csharp\\DependencyInjectionWorker\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj",
+        "projectPath": "C:\\Users\\Usuario\\dev\\study\\csharp\\TOPIC_DependencyInjection\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\dev\\study\\csharp\\DependencyInjectionWorker\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\dev\\study\\csharp\\TOPIC_DependencyInjection\\DependencyInjectionWorkerOne\\DependencyInjectionWorkerOne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
