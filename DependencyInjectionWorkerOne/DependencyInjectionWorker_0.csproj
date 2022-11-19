@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-DependencyInjectionWorkerOne-1A923FFB-ED20-4DFF-B154-5D7CB5C8DEA0</UserSecretsId>
+    <UserSecretsId>dotnet-DependencyInjectionWorker_0-1A923FFB-ED20-4DFF-B154-5D7CB5C8DEA0</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,4 +1,4 @@
-using DependencyInjectionWorkerOne;
+using DependencyInjectionWorker_0;
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices(services =>

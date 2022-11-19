@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DependencyInjectionWorkerOne.Classes
+namespace DependencyInjectionWorker_0.Classes
 {
     public class MessageWriter
     {

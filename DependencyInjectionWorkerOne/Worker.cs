@@ -1,6 +1,6 @@
-using DependencyInjectionWorkerOne.Classes;
+using DependencyInjectionWorker_0.Classes;
 
-namespace DependencyInjectionWorkerOne
+namespace DependencyInjectionWorker_0
 {
     /** Caso de Estudo - Injeção de Dependência
      *  
